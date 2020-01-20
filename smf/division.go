@@ -18,7 +18,7 @@ const (
 	SMTPETicksMaxValue uint16 = 0xFF
 )
 
-//Division represents time division struct
+//Division represents time division struct  表示一个时间针有多长的数来表示
 type Division struct {
 	ticks       uint16
 	smtpeFrames int8
