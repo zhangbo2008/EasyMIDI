@@ -8,7 +8,7 @@ package main
 //dsfdsfsdf
 import "EasyMIDI/uu"
 
-func main(){
+func main2(){
 	print("dfdsfasadf")
 	print(uu.A)
 }

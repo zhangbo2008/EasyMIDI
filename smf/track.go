@@ -20,7 +20,7 @@ func (t *Track) AddEvent(event Event) error {
 	}
 
 	//add event
-	t.eventsList.PushBack(event)
+	t.eventsList.PushBack(event)   //eventsList 是一个链表
 
 	return nil
 }

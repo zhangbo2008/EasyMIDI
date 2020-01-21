@@ -1,5 +1,5 @@
 package smf
-
+//   smf 这个库包是用做创造音乐文件的.
 //SMTPE time division midi valid codes
 const (
 	NOSMTPE int8 = 0
